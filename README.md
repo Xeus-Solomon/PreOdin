@@ -1,2 +1,5 @@
 # PreOdin
-simple html to upload (www.curlybrace.tk) so as not to have a blank site while learning.
+
+* Simple html to upload preventing a bare [site](www.curlybrace.tk) while learning.
+* Uses css inside, `<style type="text/css"> ... </style>` tags for formating.
+* Currently, not really finished.
